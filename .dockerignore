@@ -1,0 +1,12 @@
+.git
+.gitignore
+venv/
+endtoendmlproject/venv/
+__pycache__/
+*.pyc
+logs/
+catboost_info/
+notebook/
+wav2vec/
+*.ipynb
+.DS_Store
